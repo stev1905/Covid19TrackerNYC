@@ -1,5 +1,5 @@
 <h1>Covid-19 Tracker</h1>
-View App <a href="https://stev1905.github.io/To-Do-App/">here</a>
+View App <a href="https://stev1905.github.io/Covid19TrackerNYC/">here</a>
 
 
 <i>Covid-19 Tracker built in React</i>
